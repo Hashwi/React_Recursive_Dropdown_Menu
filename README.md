@@ -15,13 +15,13 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine.
 
    ```
-   git clone https://github.com/your-username/recursive-dropdown-react.git
+   git clone https://github.com/Hashwi/React_Recursive_Dropdown_Menu.git
    ```
 
 2. Navigate to the project directory.
 
    ```
-   cd recursive-dropdown-react
+   cd React_Recursive_Dropdown_Menu
    ```
 
 3. Install the necessary dependencies using npm or yarn.
