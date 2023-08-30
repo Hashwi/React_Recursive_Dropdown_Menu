@@ -1,6 +1,6 @@
 # React Recursive Dropdown Menu with Checkboxes
 
-This project demonstrates how to create a recursive dropdown menu with checkboxes using React. The menu allows you to select items at different levels of hierarchy and includes a feature to untick child items when their parent item is unticked.
+This project demonstrates how to create a recursive dropdown menu with checkboxes using React. The menu allows you to select items at different levels of hierarchy and includes a feature to deselect child items when their parent item is deselected.
 
 ## Table of Contents
 
